@@ -1,0 +1,9 @@
+name: EggRush
+version: '${project.version}'
+main: com.jayson.eggrush.eggrush.EggRush
+api-version: 1.19
+commands:
+zone:
+description: A description
+usage: |
+  /<command> - usage
